@@ -1,0 +1,20 @@
+Run the feature_extraction.py
+
+Befor Running:
+- Change the directories of
+	text_dir - the directory where you want to save the url contents
+	stopwords_dir - the directory to stopword
+	sentiment_dir - the directory to where the positive and negative words are saved
+
+- Paste Input.xlsx & Output Data Structure.xlsx in the working dir or specify appropriate directory to those files
+
+Libraries Used:
+- requests
+- bs4
+- pandas
+- os
+- nltk
+- re
+
+(make sure these libraries are installed)
+
